@@ -1,4 +1,4 @@
-# 🏎️ Módulo de Plausibilidade e Monitoramento do ETC (Formula SAE 2026)
+# 🏎️ Módulo de Plausibilidade e Monitoramento do ETC
 
 Este repositório contém o código de firmware desenvolvido em **C / ESP-IDF** para o ecossistema de controle eletrônico de aceleração (**ETC — Electronic Throttle Control**) do protótipo da equipe **Fórmula UFMG**.
 O módulo executa a leitura, conversão, monitoramento não linear e validação de segurança em malha rápida (200 Hz / task de 5 ms) para garantir total conformidade com o regulamento de segurança da **Formula SAE (FSAE)**.
